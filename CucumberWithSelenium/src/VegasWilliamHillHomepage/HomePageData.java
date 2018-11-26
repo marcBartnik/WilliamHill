@@ -1,5 +1,9 @@
 package VegasWilliamHillHomepage;
 
+/*
+ * Class stores necessary data for running tests
+ */
+
 public class HomePageData {
 	
 	public static final String VEGAS_CASINO_HOMEPAGE = "https://vegas.williamhill.com/";
